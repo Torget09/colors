@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+span, a {
+    display: inline-block;
+}
+.box {
+    background-color: dodgerblue;
+    padding: 20px 30px;
+}
+.h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.p  {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.btn {
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}
+.new {
+    background-color: lime;
+}
+.k {
+    background-color: brown;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}
